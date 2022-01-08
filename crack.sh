@@ -62,6 +62,7 @@ case $number in
     ;;
     2)
     UpdateFix
+	;;
     3)
     Tocn
     ;;
@@ -69,13 +70,3 @@ case $number in
     crack
     ;;
 esac
-
-
-
-
-
-
-
-
-
-
